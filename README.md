@@ -16,8 +16,8 @@ Along this path, we have made significant progress:
 
 ➢ Presented a scheme for testing electronic drivers using the Arduino microcontroller.
 
-➢ Tested a USB-to-I2C adapter, allowing direct computer control of multi-channel PWM drivers without
-the need for microcontrollers.
+➢ Tested a USB-to-I2C adapter MCP2221, allowing direct computer control of the multi-channel PWM driver PCA9685 without
+the need for a microcontroller.
 
 ➢ Demonstrated effective heat management of electronic devices using voltage regulators and transistors.
 
