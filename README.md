@@ -2,7 +2,9 @@
 1D shimming coil design and optimisation algorithm
 
 Highlights:
-In the project, our primary goal was not to develop a practical compensation system but to explore the mathematical methods, electronic and digital technologies required for future customized systems in our measurement installations. Along this path, we have made significant progress:
+In the project, our primary goal was not to develop a practical compensation system but to explore the mathematical methods, electronic and digital technologies required for future customized systems in our measurement installations.
+
+Along this path, we have made significant progress:
 ➢Proposed a shimming coil architecture using a planar spiral coil system.
 ➢Tested Python algorithms for numerical optimization of functionals with a large number of variables.
 ➢Explored the Python symbolic calculus library SymPy, enabling complex calculations like derivatives.
