@@ -4,11 +4,11 @@
 from tkinter import simpledialog
 import tkinter as tk
 import numpy as np
+from numpy import pi
 from scipy.optimize import minimize
 import matplotlib.pyplot as plt
 from ResidualB import B0
 
-pi = 3.1415926535897932384626433832795
 mu0 = 4.0 * pi * 1.0e-7  # vacuum magnetic permeability
 
 def CurrentOptimisation(tolerance, L0, L, d0, delta, h, R, Rs, w, rho, Inoise):
