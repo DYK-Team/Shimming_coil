@@ -1,5 +1,8 @@
 # Shimming_Coil
 1D shimming coil design and optimisation algorithm
+by Dr. Yujie Zhao
+University of St. Andrews, Scotland
+https://yujiephysics.wordpress.com/2023/11/09/nmr-maget-shimming-and-current-driver-design/
 
 Highlights:
 In the project, our primary goal was not to develop a practical compensation system but to explore the mathematical methods, electronic and digital technologies required for future customized systems in our measurement installations.
