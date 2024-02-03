@@ -1,4 +1,5 @@
 # Shimming_Coil
+
 1D shimming coil design and optimisation algorithm
 by Dr. Yujie Zhao
 University of St. Andrews, Scotland
