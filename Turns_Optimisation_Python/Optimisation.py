@@ -5,9 +5,9 @@
 import numpy as np
 from scipy.optimize import minimize
 import matplotlib.pyplot as plt
+from numpy import pi
 from ResidualB import B0
 
-pi = 3.1415926535897932384626433832795
 mu0 = 4.0 * pi * 1.0e-7  # vacuum magnetic permeability
 
 def TurnsOptimisation(tolerance, L0, L, d0, delta, h, R, a, w, rho, I, N, Method):
