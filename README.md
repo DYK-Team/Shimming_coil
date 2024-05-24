@@ -30,3 +30,5 @@ the need for a microcontroller.
 ➢ Successfully manufactured a working prototype of a four-channel electronic driver. 
 
 For more details, please read the report: "Design and optimisation of 1D shimming coils.pdf". The purpose of each project folder can be found in the report Appendix. You will have to tinker a little to install the Python libraries for MCP2221 and PCA9685. In the report we provide relevant links to the Adafruit website.
+
+The combination of the idea of passive shim and 3D printing is discussed in the following paper: https://www.sciencedirect.com/science/article/abs/pii/S1090780724000867
