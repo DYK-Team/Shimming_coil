@@ -1,4 +1,4 @@
-# Shimming_Coil
+# Shimming Coil
 
 1D shimming coil design and optimisation algorithm
 by Dr. Yujie Zhao
